@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Header
 
 Here is some information.
