@@ -1,0 +1,4 @@
+[submodule "_data/things"]
+	path = _data/things
+	url = https://github.com/ryandesign/test-pages-submodule
+	branch = master
